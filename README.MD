@@ -4,7 +4,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [GitHub pages](https://your-solution-url.com)
+- Solution URL: [GitHub pages](https://github.com/mateuszNadolny/loopstudios)
 - Live Site URL: [GitHub repo](https://your-live-site-url.com)
 
 ### Built with:
