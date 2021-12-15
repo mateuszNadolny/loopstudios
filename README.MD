@@ -4,8 +4,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [GitHub pages](https://github.com/mateuszNadolny/loopstudios)
-- Live Site URL: [GitHub repo](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/mateuszNadolny/loopstudios)
+- Live Site URL: [GitHub pages](https://mateusznadolny.github.io/loopstudios/)
 
 ### Built with:
 
